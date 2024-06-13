@@ -8,7 +8,7 @@
 <h1>JavaScript: Consumo e Tratamento de Dados de uma API</h1>
 <h2>Sobre o Projeto</h2>
 <p>Este projeto explora o uso de JavaScript para consumir e tratar dados de uma API. Implementamos uma função assíncrona que busca informações de endereço com base no CEP fornecido pelo usuário, integrando a API ViaCEP.</p>
-<img src="imagem_projeto_api.png" alt="Imagem do Projeto API">
+
 <h2>Tecnologias Utilizadas</h2>
 <ul>
     <li><strong>HTML</strong></li>
